@@ -7,7 +7,7 @@
         	}
     	],
 
-	"minimum-stability" : "dev",
+	
 
 	"require-dev": {
 
@@ -30,7 +30,7 @@
 
 	}
 
-	
+	"minimum-stability" : "dev,
 
 
 	
