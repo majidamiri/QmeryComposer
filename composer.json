@@ -1,5 +1,5 @@
 {
-	"name": "khallagh/qmery",
+	"name": "qmery/composer",
     	"authors": [
         	{
             		"name": "Majid Amiri",
@@ -19,12 +19,12 @@
 	"repositories":[
 		{
 			"type":"vcs",
-			"url":"https://github.com/majidamiri/Qmery.git"
+			"url":"https://github.com/majidamiri/QmeryComposer.git"
 		}
 
 	],	
 	"require":{
-		"khallagh/qmery" : "*",
+		"qmery/composer" : "dev-master",
 		"guzzlehttp/guzzle": "dev-master"	
 				
 
