@@ -1,0 +1,37 @@
+{
+	"name": "khallagh/qmery",
+    	"authors": [
+        	{
+            		"name": "Majid Amiri",
+            		"email": "majid_dark@yahoo.com"
+        	}
+    	],
+
+	"minimum-stability" : "dev",
+
+	"require-dev": {
+
+	},
+	
+	"autoload":{
+		"psr-4":{"Update\\":"src/"}
+    	},
+	"repositories":[
+		{
+			"type":"vcs",
+			"url":"https://github.com/majidamiri/Qmery.git"
+		}
+
+	],	
+	"require":{
+		"khallagh/qmery" : "dev-master",
+		"guzzlehttp/guzzle": "dev-master"	
+				
+
+	}
+
+	
+
+
+	
+}
