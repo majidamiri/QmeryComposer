@@ -28,7 +28,7 @@
 		"guzzlehttp/guzzle": "dev-master"	
 				
 
-	}
+	},
 
 	"minimum-stability": "dev,
 
