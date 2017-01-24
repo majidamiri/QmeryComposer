@@ -25,7 +25,7 @@
 	],	
 	"require":{
 		"qmery/mcomposer" : "dev-master",
-		"guzzlehttp/guzzle": "dev-master"	
+		"guzzlehttp/guzzle": "dev"	
 				
 
 	},
