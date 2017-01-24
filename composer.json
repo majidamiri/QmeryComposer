@@ -1,5 +1,5 @@
 {
-	"name": "qmery/composer",
+	"name": "qmery/mcomposer",
     	"authors": [
         	{
             		"name": "Majid Amiri",
@@ -24,7 +24,7 @@
 
 	],	
 	"require":{
-		"qmery/composer" : "dev-master",
+		"qmery/mcomposer" : "dev-master",
 		"guzzlehttp/guzzle": "dev-master"	
 				
 
