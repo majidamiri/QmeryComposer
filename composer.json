@@ -8,10 +8,6 @@
     	],
 
 	
-
-	"require-dev": {
-		"guzzlehttp/guzzle": "dev-master"
-	},
 	
 	"autoload":{
 		"psr-4":{"Update\\":"src/"}
@@ -24,8 +20,8 @@
 
 	],	
 	"require":{
-		"qmery/mcomposer" : "dev-master"
-		
+		"qmery/mcomposer" : "dev-master",
+		"guzzlehttp/guzzle": "dev-master"		
 				
 
 	},
