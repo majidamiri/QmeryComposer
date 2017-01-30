@@ -10,7 +10,12 @@
 	
 	
 	"autoload":{
-		"psr-4":{"Update\\":"src/"}
+		"psr-4":{
+			"Update\\":"src/",
+			"Category\\":"src/",
+			"Base\\":"src/",
+			"Video\\":"src/",
+			}
     	},
 	"repositories":[
 		{
